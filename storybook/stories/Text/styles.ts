@@ -38,12 +38,12 @@ export const statusColor = {
 const defaultStyles = StyleSheet.create<IDefaultStyles>({
   body: {
     textAlignVertical: "center",
-    fontFamily: "DIN Next LT Pro",
+    // fontFamily: "DIN Next LT Pro",
     color: appTheme["color-black-80"],
   },
   headline: {
     textAlignVertical: "center",
-    fontFamily: "Druk Text",
+    // fontFamily: "Druk Text",
     fontWeight: Platform.OS === "ios" ? "500" : "100",
     textTransform: "uppercase",
     color: appTheme["color-black-100"],

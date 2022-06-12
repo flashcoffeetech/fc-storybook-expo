@@ -1,0 +1,4 @@
+export enum EPostErrorCode {
+  BARCODE_INTERNAL_ERROR = 'POST0000',
+  BARCODE_HAS_BEEN_CLAIMED = 'POST0001',
+}

@@ -37,7 +37,7 @@ const AvatarImage = ({
       testID={testID}
       style={{ ...styles.emptyAvatar, ...customEmptyStyle }}
     >
-      {/* <FlashLogo height={customFlashSize || 46} /> */}
+      <FlashLogo height={customFlashSize || 46} />
     </View>
   );
 };
