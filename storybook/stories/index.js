@@ -6,5 +6,5 @@ import "./CheckoutProductSummary/CheckoutProductSummary.stories";
 import "./ItemNotes/ItemNotes.stories";
 import "./ProductCard/ProductCard.stories";
 import "./ProductLoader/ProductLoader.stories";
-import "./ProductVariantOptionIcon/ProductVarianOptionIcon.stories";
+// import "./ProductVariantOptionIcon/ProductVarianOptionIcon.stories";
 import "./RecommendedProductCard/RecommendedProductCard.stories";
