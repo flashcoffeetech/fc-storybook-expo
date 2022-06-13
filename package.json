@@ -8,7 +8,6 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "storybook": "start-storybook -p 7007",
     "storybook-web-build": "build-storybook --config-dir ./storybook-website",
     "chromatic": "npx chromatic --project-token=cc8c47b73fc6"
   },
